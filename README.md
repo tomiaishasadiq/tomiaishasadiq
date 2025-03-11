@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Aisha!
 
 <!--
 **tomiaishasadiq/tomiaishasadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩🏻‍💻 Full-Stack Developer <br/>
+👩🏻‍🎓 Studied Computer Science and Software Engineering at Maynooth University, Maynooth, County Kildare <br/> 
+⚡️ Certified in Project Management <br/>
