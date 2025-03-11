@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 
-## Websites
+##⚡Websites
 
 - [csprime](https://fyp.cs.nuim.ie/projects/FYP24JD001/)
 - [streamline](https://streamline-tas.netlify.app/)
 
 
 
-### 🤝🏻 &nbsp;Connect with Me 
+## 🤝🏻Connect with Me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aisha-tomi-sadiq-a09808251/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-aishatsadiq-blue"></a>
