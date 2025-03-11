@@ -38,15 +38,14 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-##⚡Websites
+## ⚡ Websites
 
 - [csprime](https://fyp.cs.nuim.ie/projects/FYP24JD001/)
 - [streamline](https://streamline-tas.netlify.app/)
 
 
 
-## 🤝🏻Connect with Me 
+## 🤝🏻 Contact
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aisha-tomi-sadiq-a09808251/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-aishatsadiq-blue"></a>
