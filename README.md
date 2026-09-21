@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Data Scientist <br/>
+🔭 I’m currently working on LLM Projects. <br/>
 👩🏻‍🎓 Currently studying Msc Information Systems at UCD <br/> 
 👩🏻‍🎓 Studied Computer Science and Software Engineering at Maynooth University, Maynooth, County Kildare <br/> 
 
