@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 Full-Stack Developer <br/>
+👩🏻‍💻 Data Scientist <br/>
+👩🏻‍🎓 Currently studying Msc Information Systems at UCD <br/> 
 👩🏻‍🎓 Studied Computer Science and Software Engineering at Maynooth University, Maynooth, County Kildare <br/> 
-⚡️ Certified in Project Management <br/>
+
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
